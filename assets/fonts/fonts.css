@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mensura';
+    src: url(./Mensura-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Mensura-Black';
+    src: url(./Mensura-Black.ttf); 
+}

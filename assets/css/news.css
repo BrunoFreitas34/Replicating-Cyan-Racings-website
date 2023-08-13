@@ -1,0 +1,25 @@
+.news-section {
+    margin: -4px;
+    height: 900px;
+    position: relative;
+    background: radial-gradient(circle,#29313b 15%,#090f1d 100%);
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: radial-gradient(circle, rgb(41, 49, 59) 15%, rgb(9, 15, 29) 100%);
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+}
+
+
+.news-title {
+    color: white;
+    font-family: 'Mensura';
+    position: absolute;
+    top: 6%;
+    width: 100%;
+    text-align: center;
+}

@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'Mensura';
-    src: url(../../fonts/Mensura-Regular.ttf);
-}
-
-@font-face {
-    font-family: 'Mensura-Black';
-    src: url(../../fonts/Mensura-Black.ttf); 
-}
-
 .item-link {
     color:white;
     margin-right: 1.5rem;
