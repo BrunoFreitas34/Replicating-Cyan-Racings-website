@@ -1,0 +1,18 @@
+.menu-header {
+    background: #090f1d;
+    height: 102px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cyan-logo {
+    width: 151px;
+    margin-left: 172px;
+}
+
+.search-icon {
+    width: 20px;
+    margin-top: -2px;
+}
+
