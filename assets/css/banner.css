@@ -1,0 +1,32 @@
+.banner-image {
+    position: relative;
+}
+
+.background-image {
+    padding-top: 40px;
+    width: 100%;
+}
+
+.banner-text {
+    font-family: 'Mensura';
+    color: white;
+    position: absolute;
+    top: 38.2%;
+    left: 11.5%;
+    width: 500px;
+}
+
+.h1-text {
+    font-size: 48px;
+    letter-spacing: .18em;
+    line-height: 1.18;
+}
+
+.font-black {
+    font-family: 'Mensura-Black';
+}
+
+.normal-paragraph {
+    line-height: 1.5;
+}
+

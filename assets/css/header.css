@@ -1,9 +1,16 @@
 .menu-header {
     background: #090f1d;
     height: 102px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: absolute;
+    z-index: 100;
+}
+
+.home-nav {
+    margin-bottom: 2px;
 }
 
 .cyan-logo {
