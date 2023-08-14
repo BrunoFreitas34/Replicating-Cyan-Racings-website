@@ -23,14 +23,18 @@
 
 .read-more-banner {
     background-color: #090f1d;
-    padding: 16px;
+    padding: 20px;
+    padding-right: 28px;
+    padding-left: 18px;
+    margin-left: 0.35%;
     text-decoration: none;
     font-family: 'Mensura-Bold';
     font-size: 13px;
     color: white;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.15em;
+    line-height: 60px;
 }
 
-.arrow-icon {
-    
+.arrow-svg {
+    transform: translate(1px, 6px);
 }

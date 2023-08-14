@@ -1,0 +1,51 @@
+.featured-section {
+    background-color: #090f1d;
+    margin: -4px;
+    height: 700px;
+    position: relative;
+}
+
+.featured-section-title {
+    color: white;
+    font-family: 'Mensura';
+    font-weight: 50;
+    position: absolute;
+    top: 12%;
+    width: 100%;
+    text-align: center;
+}
+
+.featured-grid {
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 16px;
+    width: 75.2%;
+    top: 26.25%;
+    left: 12.5%;
+}
+
+.video-thumbnail {
+    width: 100%;
+}
+
+.video-title {
+    font-family: 'Mensura';
+    color: white;
+    font-size: 15.6px;
+    letter-spacing: .215em;
+    padding-top: 21px;
+}
+
+.explore-more-videos {
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    font-family: 'Mensura-Bold';
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .15rem;
+    bottom: 13%;
+    right: 13%;
+}
+
