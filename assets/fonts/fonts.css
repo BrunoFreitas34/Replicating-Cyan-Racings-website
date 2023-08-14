@@ -7,3 +7,8 @@
     font-family: 'Mensura-Black';
     src: url(./Mensura-Black.ttf); 
 }
+
+@font-face {
+    font-family: 'Mensura-Bold';
+    src: url(./Mensura-Bold.ttf); 
+}

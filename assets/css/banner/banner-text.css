@@ -21,3 +21,16 @@
     line-height: 1.5;
 }
 
+.read-more-banner {
+    background-color: #090f1d;
+    padding: 16px;
+    text-decoration: none;
+    font-family: 'Mensura-Bold';
+    font-size: 13px;
+    color: white;
+    letter-spacing: 0.2em;
+}
+
+.arrow-icon {
+    
+}
